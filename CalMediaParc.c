@@ -1,5 +1,6 @@
 //Programa para cálculo da média de dois números
 //Recebe argumentos via Launch.json.
+//comiit vazio para Branch Main.
 
 
 #include <stdio.h>
